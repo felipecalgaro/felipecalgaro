@@ -58,6 +58,6 @@ src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.j
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecalgaro&layout=compact&theme=tokyonight" alt="felipecalgaro's most used languages"/>
 </p>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipecalgaro/felipecalgaro/blob/output/github-contribution-grid-snake.svg)
 
 
