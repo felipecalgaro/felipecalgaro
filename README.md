@@ -41,8 +41,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="NODEJS" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40">
-<img align="center" alt="GRAPHQL" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40">
+<img align="center" alt="EXPRESS" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="POSTGRESQL" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40">
