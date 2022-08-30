@@ -7,7 +7,7 @@
 
 - 🔭 Studying Back-end
 
-- ⚔️ Starting at Freelance
+- ⚔️ Looking for Freelance
 
 <br><br>
 
